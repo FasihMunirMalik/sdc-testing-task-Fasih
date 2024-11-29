@@ -25,7 +25,7 @@ For the competition, we focus on the first aspect - test selection, as detailed 
 
 | **Event**                          | **Date (AoE)**     |
 |------------------------------------|--------------------|
-| Tool Submission                    | November 17th 2024 |
+| Tool Submission                    | November 24th 2024 |
 | Results Notification               | December 15th 2024 |
 | Camera-ready Tool Paper Submission | January 10th 2025  |
 
@@ -55,7 +55,7 @@ Please refer to [GitHub Discussions](https://github.com/christianbirchler-org/sd
 Many thanks to the following contributors who help to build and maintain the repository:
 - [ChristianBirchler](https://github.com/ChristianBirchler)
 - [vatozZ](https://github.com/vatozZ)
-
+- [FasihMunirMalik](https://github.com/FasihMunirMalik)
 
 ## License
 ```{text}
@@ -78,9 +78,9 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 [GPLv3](LICENSE)
 
 ## Contacts
-| First Name | Last Name  | Affiliation                                                | Email                      |
-|------------|------------|------------------------------------------------------------|----------------------------|
-| Christian  | Birchler   | Zurich University of Applied Sciences & University of Bern | christian.birchler@zhaw.ch |
-| Stefan     | Klikovits  | Johannes Kepler University Linz                            | stefan.klikovits@jku.at    |
-| Mattia     | Fazzini    | University of Minnesota                                    | mfazzini@umn.edu           |
-| Sebastiano | Panichella | University of Bern                                         | spanichella@gmail.com / sebastiano.panichella@unibe.ch      |
+| **First Name** | **Last Name** | **Affiliation**                                            | **Email**                                              |
+|----------------|---------------|------------------------------------------------------------|--------------------------------------------------------|
+| Christian      | Birchler      | Zurich University of Applied Sciences & University of Bern | christian.birchler@zhaw.ch                             |
+| Stefan         | Klikovits     | Johannes Kepler University Linz                            | stefan.klikovits@jku.at                                |
+| Mattia         | Fazzini       | University of Minnesota                                    | mfazzini@umn.edu                                       |
+| Sebastiano     | Panichella    | University of Bern                                         | spanichella@gmail.com / sebastiano.panichella@unibe.ch |
